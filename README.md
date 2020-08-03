@@ -1,6 +1,6 @@
 ### Olá, Sou John 👋
 
-## Sou desenvolvedor fascinado por tecnologia e inovação!
+## Sou desenvolvedor, fascinado por tecnologia e inovação!
 - 👨‍💻 Atualmente trabalho na [Intelbras][intelbras_website]!
 - 📕 Estudante de ciências da computação 
 - 🥅 Metas para 2020: contribuir mais em projetos de opensource
