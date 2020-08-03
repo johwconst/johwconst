@@ -1,13 +1,14 @@
 ### Olá, Sou John 👋
 
-## Sou desenvolvedor, estudante de ciências da computação e fascinado por tecnologia!
+## Sou desenvolvedor fascinado por tecnologia e inovação!
 - 🔭 Eu atualmente trabalho na [Intelbras][intelbras_website]!
-- 🌱 "Atualmente estou aprendendo tudo" 🤣
+- 📕 Estudante de ciências da computação 
 - 🥅 Metas para 2020: contribuir mais em projetos de opensource
 
 ### Redes Sociais:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -25,7 +26,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graph]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][angular]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 
@@ -56,7 +57,8 @@
 [js]: https://pt.wikipedia.org/wiki/JavaScript
 [react]: https://pt-br.reactjs.org/
 [graph]: https://graphql.org/
-[sql]: https://sql.com
+[angular]: https://angular
 [mysql]: https://mysql.com
 [node]: https://nodejs.org
 [mongo]: https://mongo.mongodb.com
+[medium]: https://medium.com/@johwconst
