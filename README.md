@@ -1,4 +1,4 @@
-### Olá, Sou Johw 👋
+# Olá, Sou o Johnatan! 👋
 
 ## Desenvolvedor, fascinado por tecnologia e inovação!
 - 👨‍💻 Atualmente trabalho na [Intelbras][intelbras_website]!
