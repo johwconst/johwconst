@@ -2,8 +2,7 @@
 
 ## Desenvolvedor, fascinado por tecnologia e inovação!
 - 👨‍💻 Atualmente trabalho na [Intelbras][intelbras_website]!
-- 📕 Estudante de ciências da computação 
-- 🥅 Metas para 2020: Desenvolver meu proprio sistema de autenticação e contribuir em projetos abertos!
+- 📕 Formado em Ciências da Computação 
 
 ### Redes Sociais:
 
