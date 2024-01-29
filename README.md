@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv" /></a>&nbsp;
     <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql" /></a>&nbsp;
     <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" /></a>&nbsp;
   </div>
 
   
