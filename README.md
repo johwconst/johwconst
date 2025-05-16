@@ -36,10 +36,10 @@
   <br>
   <div class="description-list">
     <ul>
-      <li>🎓 Sou formado em Ciência da Computação.</li>
+      <li>🎓 Formado em Ciência da Computação.</li>
       <li>💼 Atualmente trabalho na <a href="https://www.intelbras.com.br">Intelbras</a>.</li>
       <li>☄️ Imerso em projetos relacionados a dispositivos de controle de acesso e algortimos de reconhecimento facial.</li>
-      <li>🔒 Entusiasta do universo Cripto (DucoCoin/Bitcoin/Ethereum).</li>
+      <li>🔒 Entusiasta do universo Cripto e Cypher.</li>
       <li>🤝 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li>
     </ul>
   </div>
