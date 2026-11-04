@@ -1,0 +1,17 @@
+name: Validar README
+
+on:
+  push:
+    paths: ["README.md", "assets/**", "scripts/**"]
+  pull_request:
+    paths: ["README.md", "assets/**", "scripts/**"]
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar imagens do README
+        run: python3 scripts/check_readme.py

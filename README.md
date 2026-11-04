@@ -25,18 +25,18 @@ Desenvolvedor de software na **[Intelbras](https://www.intelbras.com.br)**, onde
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,c,cpp,cs,ts,js&theme=dark" />
-    <img alt="Linguagens: Go, Python, C, C++, C#, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go,py,c,cpp,cs,ts,js&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpy%2Cc%2Ccpp%2Ccs%2Cts%2Cjs&theme=dark" />
+    <img alt="Linguagens: Go, Python, C, C++, C#, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go%2Cpy%2Cc%2Ccpp%2Ccs%2Cts%2Cjs&theme=light" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,angular,electron,flutter,nodejs,django&theme=dark" />
-    <img alt="Frameworks: React, Next.js, Angular, Electron, Flutter, Node.js, Django" src="https://skillicons.dev/icons?i=react,nextjs,angular,electron,flutter,nodejs,django&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cangular%2Celectron%2Cflutter%2Cnodejs%2Cdjango&theme=dark" />
+    <img alt="Frameworks: React, Next.js, Angular, Electron, Flutter, Node.js, Django" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cangular%2Celectron%2Cflutter%2Cnodejs%2Cdjango&theme=light" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,arduino,linux,docker,postgres,git&theme=dark" />
-    <img alt="Ferramentas: OpenCV, Arduino/ESP32, Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=opencv,arduino,linux,docker,postgres,git&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv%2Carduino%2Clinux%2Cdocker%2Cpostgres%2Cgit&theme=dark" />
+    <img alt="Ferramentas: OpenCV, Arduino/ESP32, Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=opencv%2Carduino%2Clinux%2Cdocker%2Cpostgres%2Cgit&theme=light" />
   </picture>
 </p>
 
