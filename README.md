@@ -1,70 +1,59 @@
-<div class="title">
-  <h2 align="center">Olá 👋, Eu sou o Johw</h2>
-</div>
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami — Johnatan Duarte (Johw), Software Developer na Intelbras" width="100%" />
+</p>
 
-<div class="badges">
-  <div class="dark-theme">
-    <p align="center">
-    <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=nextdotjs" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" /></a>&nbsp;
-  </div>
+### 👋 Olá, eu sou o Johw
 
-  
-</div>
-<div class="description">
-  <div class="description-title">
-    <h2 align="center">🤔 Quem é Johw?</h2>
-  </div>
+Desenvolvedor de software na **[Intelbras](https://www.intelbras.com.br)**, onde trabalho com **dispositivos de controle de acesso e reconhecimento facial**: integração, firmware e ferramentas em volta do hardware.
 
-  <br>
-  <div class="description-list">
-    <ul>
-      <li>🎓 Formado em Ciência da Computação.</li>
-      <li>💼 Atualmente trabalho na <a href="https://www.intelbras.com.br">Intelbras</a>.</li>
-      <li>☄️ Imerso em projetos relacionados a dispositivos de controle de acesso e algortimos de reconhecimento facial.</li>
-      <li>🔒 Entusiasta do universo Cripto e Cypher.</li>
-      <li>🤝 Sou um dos administradores do canal <a href="https://guiaanonima.com">Guia Anônima</a>.</li>
-    </ul>
-  </div>
-</div>
+- 🔐 **Foco atual:** biometria facial, integrações com controladores de acesso e APIs de dispositivos
+- 🛠️ **Fora do trabalho:** IoT com ESP32, automação residencial e projetos de hardware com impressão 3D
+- 🪙 **Interesses:** cripto, privacidade e segurança. Sou um dos administradores do **[Guia Anônima](https://guiaanonima.com)**
+- 🎓 Formado em Ciência da Computação
 
-<div class="footer">
-  <div class="dark-theme">
-     <p align="center">
-      <a href="https://github.com/johwconst" target="_blank">
-        <img align="center" width="50px" src="https://cdn3.emoji.gg/emojis/8677-lightning-blue.gif" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://linkedin.com/in/johwconst" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin" />
-      </a>
-      <a href="https://instagram.com/johwconst" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"
-          alt="instagram" />
-      </a>
-      <a href="https://t.me/johwconst" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram"
-          alt="Telegram" />
-      </a>
-    </p>
-  </div>
-  
-</div>
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [**IntelbrasModoOnlineElectron**](https://github.com/johwconst/IntelbrasModoOnlineElectron) | Servidor em Electron para o modo online dos controladores de acesso Intelbras |
+| [**FaceQualityAssurance**](https://github.com/johwconst/FaceQualityAssurance) | Valida a qualidade de fotos de rosto antes do cadastro em dispositivos de reconhecimento facial |
+| [**keystrokeDynamics2FA**](https://github.com/johwconst/keystrokeDynamics2FA) | Segundo fator de autenticação baseado no ritmo de digitação (keystroke dynamics) |
+| [**TextoDaFotoBot**](https://github.com/johwconst/TextoDaFotoBot) | Bot do Telegram que extrai o texto de imagens (OCR) |
+| [**DuinoCoinRig**](https://github.com/johwconst/DuinoCoinRig) | Rig de mineração de Duino-Coin com ESP32, display OLED e case impresso em 3D |
+
+### 🧰 Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,c,cpp,cs,ts,js&theme=dark" />
+    <img alt="Linguagens: Go, Python, C, C++, C#, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go,py,c,cpp,cs,ts,js&theme=light" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,angular,electron,flutter,nodejs,django&theme=dark" />
+    <img alt="Frameworks: React, Next.js, Angular, Electron, Flutter, Node.js, Django" src="https://skillicons.dev/icons?i=react,nextjs,angular,electron,flutter,nodejs,django&theme=light" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,arduino,linux,docker,postgres,git&theme=dark" />
+    <img alt="Ferramentas: OpenCV, Arduino/ESP32, Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=opencv,arduino,linux,docker,postgres,git&theme=light" />
+  </picture>
+</p>
+
+### 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johwconst/johwconst/output/github-snake-dark.svg" />
+    <img alt="Animação de uma cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/johwconst/johwconst/output/github-snake.svg" />
+  </picture>
+</p>
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/johwconst"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/johwconst"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/johwconst"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linktree.com/johwconst"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
