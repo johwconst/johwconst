@@ -23,7 +23,7 @@ PROMPT_LEN = sum(len(t) for t, _ in PROMPT)
 # Cada item: ("cmd", texto) ou ("out", [(texto, cor), ...]) ou ("blank",) ou ("end",)
 SCRIPT = [
     ("cmd", "whoami"),
-    ("out", [("Johnatan Duarte ", "text"), ("(Johw)", "purple"), (" · Software Developer @ Intelbras · Palhoça/SC", "dim")]),
+    ("out", [("Johnatan Duarte ", "text"), ("(Johw)", "purple"), (" · Software Developer · Palhoça/SC", "dim")]),
     ("blank",),
     ("cmd", "cat foco.txt"),
     ("out", [("→ ", "orange"), ("Controle de acesso e reconhecimento facial", "text")]),
