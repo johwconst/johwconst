@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: whoami — Johnatan Duarte (Johw), Software Developer na Intelbras" width="100%" />
+  <img src="./assets/terminal.svg" alt="Terminal: whoami — Johnatan Duarte (Johw), Software Developer" width="100%" />
 </p>
 
 ### 👋 Olá, eu sou o Johw
 
-Desenvolvedor de software na **[Intelbras](https://www.intelbras.com.br)**, onde trabalho com **dispositivos de controle de acesso e reconhecimento facial**: integração, firmware e ferramentas em volta do hardware.
+Desenvolvedor de software, onde trabalho com **dispositivos de controle de acesso e reconhecimento facial**: integração, firmware e ferramentas em volta do hardware.
 
 - 🔐 **Foco atual:** biometria facial, integrações com controladores de acesso e APIs de dispositivos
 - 🛠️ **Fora do trabalho:** IoT com ESP32, automação residencial e projetos de hardware com impressão 3D
@@ -15,8 +15,6 @@ Desenvolvedor de software na **[Intelbras](https://www.intelbras.com.br)**, onde
 
 | Projeto | Descrição |
 | --- | --- |
-| [**IntelbrasModoOnlineElectron**](https://github.com/johwconst/IntelbrasModoOnlineElectron) | Servidor em Electron para o modo online dos controladores de acesso Intelbras |
-| [**FaceQualityAssurance**](https://github.com/johwconst/FaceQualityAssurance) | Valida a qualidade de fotos de rosto antes do cadastro em dispositivos de reconhecimento facial |
 | [**keystrokeDynamics2FA**](https://github.com/johwconst/keystrokeDynamics2FA) | Segundo fator de autenticação baseado no ritmo de digitação (keystroke dynamics) |
 | [**TextoDaFotoBot**](https://github.com/johwconst/TextoDaFotoBot) | Bot do Telegram que extrai o texto de imagens (OCR) |
 | [**DuinoCoinRig**](https://github.com/johwconst/DuinoCoinRig) | Rig de mineração de Duino-Coin com ESP32, display OLED e case impresso em 3D |
