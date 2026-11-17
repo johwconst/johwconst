@@ -11,14 +11,6 @@ Desenvolvedor de software, onde trabalho com **dispositivos de controle de acess
 - 🪙 **Interesses:** cripto, privacidade e segurança. Sou um dos administradores do **[Guia Anônima](https://guiaanonima.com)**
 - 🎓 Formado em Ciência da Computação
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-| --- | --- |
-| [**keystrokeDynamics2FA**](https://github.com/johwconst/keystrokeDynamics2FA) | Segundo fator de autenticação baseado no ritmo de digitação (keystroke dynamics) |
-| [**TextoDaFotoBot**](https://github.com/johwconst/TextoDaFotoBot) | Bot do Telegram que extrai o texto de imagens (OCR) |
-| [**DuinoCoinRig**](https://github.com/johwconst/DuinoCoinRig) | Rig de mineração de Duino-Coin com ESP32, display OLED e case impresso em 3D |
-
 ### 🧰 Stack
 
 <p align="center">
